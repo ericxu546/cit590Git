@@ -8,7 +8,7 @@
     ```
     python3 p2_task1.py
     ```
-4. Enter the size of the canvas `N` followed by `N` lines of letters representing the colors on the canvas.
+4. Enter the input as task required 
 
 ### Task 2
 
@@ -18,7 +18,7 @@
     ```
     python3 p2_task2.py
     ```
-4. Enter two numbers: size of the canvas and number of steps, followed by lines with the color and coordinates for the rectangle coverings.
+4. Enter the input as task required 
 
 ### Task 3
 
@@ -28,4 +28,4 @@
     ```
     python3 p2_task3.py
     ```
-4. Enter the size of the canvas `N` followed by `N` lines of letters representing the target canvas.
+4. Enter the input as task required 
